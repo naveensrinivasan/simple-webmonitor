@@ -1,4 +1,4 @@
-Simple-webmonitor
+Simple webmonitor
 =================
 
 A simple webmonitor using goroutines. 
